@@ -565,7 +565,7 @@ body {
 #testimonials .quoter {
     margin-bottom: 0;
     font-family: TiemposHeadline-Black, serif;
-    background-color:var(--mid_grey);
+    color:var(--mid_grey);
     font-size: 18px;
 }
 #testimonials .credit {
